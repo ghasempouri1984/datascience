@@ -63,6 +63,7 @@ https://miro.com/app/board/uXjVOlm6vgg=/?share_link_id=155215955139
 
 
 ## Uses of the classes
+### i do not use in the right way... for example my does not return list[Publicatoin] of class Publication objects...
 
 ```
 # Supposing that all the classes developed for the project
